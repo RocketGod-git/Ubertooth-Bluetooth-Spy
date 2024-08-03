@@ -19,7 +19,7 @@ Ubertooth Bluetooth Spy is a cutting-edge Bluetooth surveillance tool that lever
 
 ## ☠️ Prerequisites!
 
-You need an Ubertooth device and have all the drivers installed. Try this to be sure:
+You need an Ubertooth device and have all the drivers installed. Try this to be sure (I'm using Linux OS):
 
 ```
 ubertooth-util -v
