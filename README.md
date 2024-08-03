@@ -128,6 +128,6 @@ Give a ⭐️ if this project helped you!
 ## 📞 Contact
 
 - GitHub:    [@RocketGod-git](https://github.com/RocketGod-git)
-- GitHub.io  [ExtraFunStuff]{https://RocketGod-git.GitHub.io) 
+- GitHub.io  [ExtraFunStuff](https://RocketGod-git.GitHub.io) 
 
 ![RocketGod](https://github.com/RocketGod-git/Flipper_Zero/assets/57732082/f5d67cfd-585d-4b23-905f-37151e3d6a7d)
