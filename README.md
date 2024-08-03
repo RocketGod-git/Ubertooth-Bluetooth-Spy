@@ -26,7 +26,8 @@ ubertooth-util -v
 ```
 
 If not, you can order one here, 5% discount code "ROCKETGOD":
-[Lab401](https://lab401.com/r?id=iop7bf)
+
+🚨 [Lab401](https://lab401.com/r?id=iop7bf) 🚨
 
 More info at [Great Scott Gadgets](https://www.greatscottgadgets.com)
 
