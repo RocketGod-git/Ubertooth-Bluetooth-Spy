@@ -17,6 +17,19 @@ Ubertooth Bluetooth Spy is a cutting-edge Bluetooth surveillance tool that lever
 - 🔔 Discord webhook integration for remote notifications
 - 🐛 Debug mode for in-depth analysis
 
+## ☠️ Prerequisites!
+
+You need an Ubertooth device and have all the drivers installed. Try this to be sure:
+
+```
+ubertooth-util -v
+```
+
+If not, you can order one here, 5% discount code "ROCKETGOD":
+[Lab401](https://lab401.com/r?id=iop7bf)
+
+More info at [Great Scott Gadgets](https://www.greatscottgadgets.com)
+
 ## 🛠 Installation
 
 1. Clone this repository:
@@ -51,19 +64,18 @@ To enable Discord notifications:
    ```
 ![image](https://github.com/user-attachments/assets/8b84e32f-fe36-453f-ba40-67ef349bbd05)
 
-
 ## 🚀 Usage
 
 Run the script with:
 
 ```
-python ubertooth.py
+python3 ubertooth.py
 ```
 
 For debug mode:
 
 ```
-python ubertooth.py --debug
+python3 ubertooth.py --debug
 ```
 
 ## 🎛 Controls
